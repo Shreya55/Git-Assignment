@@ -1,3 +1,4 @@
-Second file contains the sentence:-
+Second file only has the sentence:-
 
-"Hello World"
+"Hello there!"
+
